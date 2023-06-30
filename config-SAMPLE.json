@@ -1,0 +1,8 @@
+{
+  "dump1090_endpoint": "http://pi.adsb/adsbx/data/aircraft.json",
+  "pushbullet_api_key": "o.xyz",
+  "registration_numbers": [
+    "UAL1755",
+    "a92384"
+  ]
+}
